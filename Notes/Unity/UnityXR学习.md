@@ -7,6 +7,8 @@
 > Unity3d 2021.3.10f1c2
 >
 > steamVR
+>
+> 笔记下载：[HuangZhibin9/NotesDownload (github.com)](https://github.com/HuangZhibin9/NotesDownload)
 
 
 

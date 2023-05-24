@@ -3,6 +3,10 @@
 > Started	2022.11.29
 >
 > Author	HuangZhibin9
+>
+> 作者 ： 黄智斌
+>
+> 笔记下载：[HuangZhibin9/NotesDownload (github.com)](https://github.com/HuangZhibin9/NotesDownload)
 
 ## 第一章 欢迎来到Shader的世界
 

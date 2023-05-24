@@ -9,6 +9,8 @@
 > Author:黄智斌 HuangZhibin9
 >
 > Learned from 杨希杰 Yang Xijie
+>
+> 笔记下载：[HuangZhibin9/NotesDownload (github.com)](https://github.com/HuangZhibin9/NotesDownload)
 
 
 

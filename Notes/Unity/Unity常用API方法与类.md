@@ -3,6 +3,8 @@
 > Started	2022 9 20
 >
 > Author	黄智斌 HuangZhibin9
+>
+> 笔记下载：[HuangZhibin9/NotesDownload (github.com)](https://github.com/HuangZhibin9/NotesDownload)
 
 - **本篇旨在熟悉unity基本操作后，进一步了解unity常用的方法和类**
 
